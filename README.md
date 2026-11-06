@@ -1,9 +1,31 @@
-# 💫 About Me:
-I am a Computer Science & Engineering graduate working at the intersection of Data Science, Machine Learning Engineering, and Agentic AI systems, focused on building scalable, real-world solutions.<br><br>Currently, I work with Accelirate, an AI and Automation company, where I contribute to the design and development of Agentic AI solutions—building intelligent, goal-driven agents that automate workflows, integrate with enterprise systems, and support decision-making. This role has strengthened my understanding of real-world AI deployment, system orchestration, and scalable automation.<br><br>I am interested in opportunities where I can leverage my expertise in data science, machine learning engineering, and intelligent automation while continuing to learn and overcome the challenges faced by growing, data-driven businesses. I am particularly motivated by environments that value ownership, experimentation, and real-world impact, where AI systems are built responsibly, scaled thoughtfully, and aligned with meaningful business outcomes.
+## Prasad Takwane
 
+Automation Developer at **Accelirate Inc.** (Pune). I build RPA and agentic AI workflows for
+healthcare billing, claims, and payroll operations, and work with client stakeholders on
+requirements, demos, and sign-offs. I also test new GenAI tools and run workshops on building and
+tracing AI agents.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasadtakwane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadtakwane007@gmail.com) 
+I'm interested in AI products that help businesses save time and money and grow without adding people.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+B.Tech, Computer Science & Engineering, MIT ADT University (2025)
+
+---
+
+### Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| **[Baymax](https://github.com/prasadgt007/project-baymax)** | Healthcare assistant: symptom triage with follow-up questions, answers from the patient's own records (RAG), appointment booking, and pre-visit briefs for doctors. Personal project, built solo; the original version won the Bold Leap Award at Accelirate's Agentic Hackathon. | LangGraph, DeepAgents, MCP, Supabase (pgvector), LangSmith |
+| **[BillBot](https://github.com/prasadgt007/BillBot)** | WhatsApp agent that turns handwritten bills, voice notes, and text orders (Hindi, Marathi, English) into GST invoices. Built solo in 24 hours at the AIBoomi Hackathon. | Gemini, Twilio WhatsApp API, Flask, ReportLab |
+| **[Crop health from RGB images](https://github.com/prasadgt007/Effects-of-Pesticides-NDVI)** | Research on estimating NDVI without multispectral sensors. Published at DELCON-2024 ([IEEE Xplore](https://ieeexplore.ieee.org/document/10866473/)). | VGG19, conditional GAN (PyTorch) |
+
+### Tools
+
+- **AI and agents:** LangChain · LangGraph · DeepAgents · MCP · LangSmith · Anthropic Claude
+- **Automation:** UiPath · Intelligent Document Processing
+- **Data:** Python · SQL · Pandas · NumPy · Tableau · Power BI
+- **Certifications:** AWS Certified Cloud Practitioner · Google Project Management · UiPath Agentic Automation Associate
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/prasadtakwane) · [prasadtakwane007@gmail.com](mailto:prasadtakwane007@gmail.com)
